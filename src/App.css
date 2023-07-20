@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #616266;
+  background-image: linear-gradient(0deg, #000101 0%, #3a3a3b 100%);
+}
+
+.mainPage {
+  flex-grow: 1;
+}
