@@ -19,4 +19,4 @@
 - Ejercitar los "deploys" de un proyecto en Netlify.
 
   Enlace a ejercicio desplegado: 🔗
-  [Ejercicio 01](https://xxx.netlify.app/)
+  [Ejercicio 01](https://funny-youtiao-7aff54.netlify.app/)
