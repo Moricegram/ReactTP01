@@ -8,7 +8,7 @@
 
 > _Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”._
 
-![imagenEjemplo](https://imageup.me/images/d4962e65-16d1-454a-b136-be365e5a74e9.jpeg)
+![imagenEjemplo](https://github.com/Moricegram/reactTP01/blob/main/ejemplo01.jpeg)
 
 ### Propósito del Ejercicio
 
